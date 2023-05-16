@@ -1,0 +1,10 @@
+.container1,
+.container2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.div2 {
+    margin-top: 38%;
+}
